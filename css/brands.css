@@ -214,6 +214,13 @@
 	--button-border:1px solid #FFFFFF;
 }
 
+/* Fur Affinity */
+.button-fur-affinity {
+    --button-text: #ffffff;
+    --button-background: #121212;
+    --button-border: 1px solid #FFFFFF;
+}
+
 /* GitHub */
 .button-github {
 	--button-text:#ffffff;
